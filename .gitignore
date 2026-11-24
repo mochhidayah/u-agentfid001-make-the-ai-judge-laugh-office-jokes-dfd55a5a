@@ -1,0 +1,5 @@
+# make.fun office-jokes entry: keep the repo to source only.
+node_modules/
+output/
+*.log
+.DS_Store
